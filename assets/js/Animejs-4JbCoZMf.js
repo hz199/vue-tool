@@ -1,1 +1,0 @@
-import{Bt as e,Tt as s,sn as t,vt as a,xt as r}from"./vendor-CCkLgvH_.js";var n=s({__name:"index",setup(s){const n=t();return(s,t)=>(e(),r("div",null,[a("span",{ref_key:"time",ref:n},"0",512)]))}});export{n as default};
