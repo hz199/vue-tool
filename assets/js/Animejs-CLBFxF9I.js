@@ -1,0 +1,1 @@
+import{Ft as e,Ot as t,Xt as a,jt as s,yn as r}from"./vendor-C7ssN1uP.js";var n=e({__name:"index",setup(e){const n=r();return(e,r)=>(a(),s("div",null,[t("span",{ref_key:"time",ref:n},"0",512)]))}});export{n as default};

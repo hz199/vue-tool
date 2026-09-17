@@ -1,0 +1,1 @@
+import{Dt as t,zt as e}from"./vendor-C7ssN1uP.js";import"./index-2LrWEY4h.js";function i(){const i=e("elMainHeight");return{height:t(()=>{var t;return null==i||null===(t=i.value)||void 0===t?void 0:t.height}),style:t(()=>{var t;return`height: ${null==i||null===(t=i.value)||void 0===t?void 0:t.height}px`})}}export{i as t};
